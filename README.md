@@ -51,7 +51,7 @@ Provide readable and reusable Java code for basic algorithmic problems
 
 👨‍💻 Author
 Developed with care by Vasile Bejan.
-Feel free to connect via GitHub or my email: bejan.vasi@yahoo.com and,  contribute to this repository!
+Feel free to connect via GitHub  (vasile007) or my email: bejan.vasi@yahoo.com and,  contribute to this repository!
 Thank you.
 
 
